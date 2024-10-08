@@ -1,6 +1,6 @@
-# Basic Sample Hardhat Project
+# Carbon Emission Blockchain 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project highlights a fundamental use case for Hardhat, centered around a smart contract integral to the CEB initiative. The project includes the CEB contract's code, a test suite to ensure its proper function, and a deployment script for seamless integration. Additionally, it features an example task implementation to list available accounts within the Hardhat ecosystem. The CEB project focuses on creating platforms and scenarios for carbon-neutral applications, emphasizing its unique application value in virtual environments.
 
 Try running some of the following tasks:
 
