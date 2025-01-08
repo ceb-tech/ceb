@@ -53,18 +53,6 @@ npx hardhat help
 - Configure etherscan key
 - Execute (example): `npx hardhat verify --network testnet 0xbF39886B4F91F5170934191b0d96Dd277147FBB2`
 
-### Address Allocation
-
-| No. | Address Name         | Address                               | Percentage | Amount    |
-|-----|----------------------|---------------------------------------|------------|-----------|
-| 1   | Platform Members     | 0x445E69B665D5e119F40561A5CbA01AEaF679564d | 15%        | 150,000,000  |
-| 2   | Private Fund Subscription | 0x2D491861930F05E32468fB3eDA32D96AA0A628B8 | 5%         | 50,000,000   |
-| 3   | Public Sales          | 0x12353D644e183Eb94835BCC86e5F47e74B5Ef089 | 25%        | 250,000,000  |
-| 4   | Community and User Rewards | 0xe7502DF040d55ec9F7D6d2A83B4C6908f896903C | 5%         | 50,000,000   |
-| 5   | Carbon Rights Exchange | 0x4F7caDFE53B4Fa1c729c6114f5c54a4506D64248 | 20%        | 200,000,000  |
-| 6   | Project Reserve       | 0xB868108eFD819C478df1f9dd58096A92e2e00a84 | 10%        | 100,000,000  |
-| 7   | Technical Team        | 0xB3083bA94D7ad4d4E080B881673f1A164Ac2ff8F | 5%         | 50,000,000   |
-| 8   | Mining Rewards        | 0x75fb28bAaD0a62996632608cB25FAbf75130A548 | 15%        | 150,000,000  |
 
 ### Project Administrator
 - Address: `0xbE81444e6d1D33C323F587d90a07AeC316d93D57`
